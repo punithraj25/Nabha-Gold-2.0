@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Open Sans', sans-serif;
-    background: #efe3df;
+    background: #fdb7b6;
     color: #2b2024;
     font-size: 22px;
 }
@@ -48,8 +48,8 @@ body{
     border: none;
     width: 100%;
     text-align: center;
-    background-color:#673d3f;
-    color:#efe3df;
+    background-color:#000000;
+    color:#ffcd37;
     text-decoration: none;
     padding: 16px 0;
     display: block;
@@ -174,8 +174,8 @@ body{
 
 /* Navigation Bar Styles */
 .navigation {
-    background-color: #673d3f;
-    color: #efe3df;
+    background-color: #000000;
+    color: #eeb927;
     padding: 20px 0;
     position: sticky;
     top: 0;
